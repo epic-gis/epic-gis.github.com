@@ -24,8 +24,8 @@ By the end of the course, participants will be able to:
 * Discuss the capabilities of GIS and spatial analysis as they relate to the attendees’ particular research interests
 
 ###PREREQUISITES
-Basic understanding of computer file structure and directory paths. For students with administrative rights over a laptop, they may choose to install the latest version of QGIS (http://www.qgis.org/) prior to the course. Or since the installation has many dependencies and differs by OS, students may wish to install the software on the first day of class. They may also choose (if they have Windows or a Mac (dual-boot, Parallels, Fusion)) to install a 1 - year student version of ArcGIS (http://www.esri.com/landing-pages/software/arcgis/arcgis-desktop-student...). 
+Basic understanding of computer file structure and directory paths. For students with administrative rights over a laptop, they may choose to install the latest version of QGIS ([http://www.qgis.org/](http://www.qgis.org/en/site/)) prior to the course. Or since the installation has many dependencies and differs by OS, students may wish to install the software on the first day of class. They may also choose (if they have Windows or a Mac (dual-boot, Parallels, Fusion)) to install a 1 - year student version of ArcGIS ([http://www.esri.com/landing-pages/software/arcgis/arcgis-desktop-student-trial](http://www.esri.com/landing-pages/software/arcgis/arcgis-desktop-student-trial)). 
 
 ###RECOMMENDED READINGS
 Additional PDF optional GIS readings will be supplied to the students by the instructor. In the meantime, these web-resources are useful:
-http://www.spatialanalysisonline.com/
+[http://www.spatialanalysisonline.com/](http://www.spatialanalysisonline.com/)
