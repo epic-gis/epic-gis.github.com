@@ -5,9 +5,9 @@ gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "EPIC GIS"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems
 
 email: a-mail@mail.mail
 #blog logo
@@ -15,19 +15,19 @@ logo: "/assets/images/epic_logo_small.png"
 # blog cover
 cover: "/assets/images/crashes.png"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Daniel M. Sheehan'
+author: 'Daniel M. Sheehan'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://epic-gis.github.io/" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/nygeog
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -41,7 +41,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/epic-gis
     desc:	Fork me on github
     share_url:
     share_title:
