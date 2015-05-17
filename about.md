@@ -32,7 +32,7 @@ Additional PDF optional GIS readings will be supplied to the students by the ins
 [http://www.spatialanalysisonline.com/](http://www.spatialanalysisonline.com/)
 
 
-
+###MISC. 
 
 #####Links and Resources
 <ul>
@@ -65,6 +65,14 @@ Additional PDF optional GIS readings will be supplied to the students by the ins
 </ul>
 
 
+
+
+<h5 align="left">USB drive(s)</h5>
+<p align="left">For class: you'll need an empty USB drive of at least 8 GB, preferably 8-16 GB formatted as NTSF or FAT32. Mac-OSX Journaled devices must be reformatted. </p>
+
+<h5 align="left">Computers</h5>
+<p align="left">If you'd like to bring your own computer for ArcGIS starting the 2nd or 3rd day feel free to bring it in. You must have at least 2 gigabytes of random access memory (RAM) devoted to your windows OS and 20 gigabytes of available disk space. </p>
+
 <h5 align="left">Other stuff</h5>
 <p align="left"><a href="http://www.esri.com/industries/apps/education/offers/promo/index.cfm" target="_blank">esri academic 1 year free license</a></p>
 <p align="left"><a href="http://store.esri.com/esri/showdetl.cfm?SID=2&Product_ID=1315" target="_blank">esri $100 arcinfo desktop home use license</a></p>
@@ -75,13 +83,6 @@ Additional PDF optional GIS readings will be supplied to the students by the ins
 -->
 <p align="left"><a href="http://www.youtube.com/watch?v=vTSa-oYZlhg" target="_blank">Video on how to connect to data (folders)</a></p>
 <p align="left"><a href="http://geospatialrevolution.psu.edu/" target="_blank">Penn State Geospatial Revolution Videos</a></p>
-
-<h5 align="left">USB drive(s)</h5>
-<p align="left">For class: you'll need an empty USB drive of at least 8 GB, preferably 8-16 GB formatted as NTSF or FAT32. Mac-OSX Journaled devices must be reformatted. </p>
-
-<h5 align="left">Computers</h5>
-<p align="left">If you'd like to bring your own computer for ArcGIS starting the 2nd or 3rd day feel free to bring it in. You must have at least 2 gigabytes of random access memory (RAM) devoted to your windows OS and 20 gigabytes of available disk space. </p>
-
 
 
 
