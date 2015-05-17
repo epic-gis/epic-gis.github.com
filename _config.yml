@@ -7,7 +7,7 @@ gems:
 # Site settings
 title: "EPIC GIS"
 description: > # this means to ignore newlines until "email:"
-   The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems
+   The Epidemiology and Population Health Summer Institute at Columbia University - Geographic Information Systems Course
 
 email: a-mail@mail.mail
 #blog logo
