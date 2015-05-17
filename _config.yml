@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/epic_logo_web-01.png"
+logo: "/assets/images/epic_logo_small.png"
 # blog cover
 cover: "/assets/images/crashes.png"
 
